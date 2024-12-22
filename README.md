@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/InsightArtificial/Insight-AI/blob/main/insightai.png)
 
 # Insight AI Portfolio Analyzer
 
