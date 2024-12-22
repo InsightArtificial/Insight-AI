@@ -1,4 +1,4 @@
-![alt text](https://github.com/InsightArtificial/Insight-AI/blob/main/insightai.png)
+![alt text](https://github.com/InsightArtificial/Insight-AI/blob/main/insight.png)
 
 # Insight AI Portfolio Analyzer
 
